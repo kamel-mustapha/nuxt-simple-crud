@@ -1,0 +1,3 @@
+docker-compose.prod.yml
+db_data/
+environment.ts
